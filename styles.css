@@ -1,0 +1,36 @@
+header {
+    margin-top: 5%;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 4rem;
+    text-align: center;
+    color: #ff6f3c;
+}
+
+body {
+    background-color: #155263;
+}
+
+.button {
+    border-radius: 2rem;
+    font-family: 'Roboto Mono', monospace;
+    background-color: #155263;
+    width: 80px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+
+
+.game {
+    background-color: #ff9a3c;
+    font-family: 'Roboto Mono', monospace;
+    width: 370px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    font-size: 2rem;
+    text-align: center;
+    color: #155263;
+}
